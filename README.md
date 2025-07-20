@@ -1,4 +1,9 @@
 # CrimsonLand---SFML
+
+> ⚠️ **Notice:** This repository contains **source code only**.  
+> No game assets (images, sounds, fonts, levels) or compiled demos are included.  
+> The purpose of this repository is to share the game's **C++/SFML logic and architecture** with fellow developers.
+
 CrimsonLand: The Great Heritage is a fully authentic, atmospheric 2D zombie survival game built in C++ using SFML. It offers two distinct modes:
 
 Story Mode
